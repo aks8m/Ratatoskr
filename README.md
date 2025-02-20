@@ -1,2 +1,2 @@
 # Ratatoskr
-Agent to test WebRTC API integration with WebRTC-server project.
+Agent to test WebRTC API integration with stram capture serverr project.
